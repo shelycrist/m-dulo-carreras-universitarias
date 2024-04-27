@@ -13,7 +13,7 @@
     "title": "General",
     "summary": {
       "title": "Resumen",
-      "description": "Esta aplicación te permite conectar {{clientName}} como medio de pago en tu {{ecommerce}}. Con la siguiente documentación, obtendrás la información necesaria para instalar y configurar {{clientName}}.",
+      "description": "En este módulo podrás obtener información sobre las universidades y carreras de la región centroccidental y otras destacadas del país.",
       "requirements": {
         "title": "Requisitos",
         "description": "Para ofrecer {{clientName}} como medio de pago, debes estar registrado como comercio en su plataforma. Su aún no lo estas, ingresa en el siguiente enlace, donde encontrarás los pasos necesarios para registrarte y obtener las credenciales para ingresar en tu {{ecommerce}}.",
