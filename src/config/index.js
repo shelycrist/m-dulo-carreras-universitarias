@@ -7,9 +7,8 @@ export const languages = ['es', 'en', 'pt']
 // Left navigation
 export const leftNavigation = [
   {
-    title: 'general.title',
+    title: 'GENERAL',
     links: [
-      { title: 'GENERAL', href: '/' },
       { title: 'Resumen', href: '/docs/resumen' },
     ],
   },
