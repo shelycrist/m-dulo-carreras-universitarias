@@ -1,0 +1,242 @@
+{
+  "common": {
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "on-this-page": "En esta página",
+    "get-them-here": "Consíguelos aquí"
+  },
+  "hero": {
+    "title": "Pagos seguros con {{clientName}}",
+    "subtitle": "Integra {{clientName}} en tu tienda para aceptar pagos de tus usuarios"
+  },
+  "general": {
+    "title": "General",
+    "summary": {
+      "title": "Resumen",
+      "description": "Esta aplicación te permite conectar {{clientName}} como medio de pago en tu {{ecommerce}}. Con la siguiente documentación, obtendrás la información necesaria para instalar y configurar {{clientName}}.",
+      "requirements": {
+        "title": "Requisitos",
+        "description": "Para ofrecer {{clientName}} como medio de pago, debes estar registrado como comercio en su plataforma. Su aún no lo estas, ingresa en el siguiente enlace, donde encontrarás los pasos necesarios para registrarte y obtener las credenciales para ingresar en tu {{ecommerce}}.",
+        "line-title-1": "Clientes registrados en {{clientName}}.",
+        "line-1": "Si eres cliente payway, ingresa al siguiente enlace para validar tu CUIT",
+        "line-2": "Activa el captcha y comienza la validación del CUIT.",
+        "line-3": "Verifica que cuentes con establecimientos ecommerce. Para esto, inicia sesión en el siguiente enlace e ingresa en mis establecimientos.",
+        "line-4": "Debes contar con la modalidad ecommerce para transaccionar desde {{ecommerce}}, para habilitarla ingresa a 'Mis Establecimientos > Ubica la columna “Modalidad” (Debe indicar E-COMMERCE).",
+        "line-5": "Si no tienes establecimiento ecommerce podés agregar la modalidad de la siguiente manera:",
+        "line-6": "Selecciona Agregar nuevo establecimiento.",
+        "line-7": "Dentro de la sección de configuración de establecimiento, seleccioná Tienda online.",
+        "line-title-2": "Clientes no registrados en {{clientName}}.",
+        "line-8": "Si no sos cliente {{clientName}} genera el onboarding y no te olvides de solicitar ventas online en tu carrito, vas a recibir tus credenciales para configurar en {{ecommerce}} y comenzar a operar. Para realizar el onboarding sigue los pasos a continuación:",
+        "line-9": "Ingresa al siguiente enlace y al finalizar el proceso recibirás las credenciales en tu mail, además las tendrás siempre disponibles en el portal de ventas online. Ya con estas podrás configurarlas en {{ecommerce}} y comenzar a operar."
+      },
+      "quick-links": {
+        "title": "Enlaces rápidos",
+        "description": "Aquí encontrarás algunos enlaces rápidos para ayudarte a comenzar."
+      }
+    },
+    "installation": {
+      "title": "Instalación",
+      "description": "Instala la app de {{clientName}} para integrarte con {{ecommerce}}.",
+      "line-1": "Para instalar {{clientName}}, debes iniciar sesión con tus credenciales en {{ecommerce}}.",
+      "line-2": "Una vez hecho esto, ingresa al siguiente link:",
+      "line-3": "Acepta los permisos solicitados por la app, presionando el botón 'Aceptar'.",
+      "line-4": "Una vez instalada, serás redirigido a la página de onboarding donde podrás realizar las configuraciones necesarias para integrarte."
+    },
+    "tutorial": {
+      "title": "Tutoriales",
+      "description": "Encontrarás información sobre cómo ver los pedidos realizados con {{clientName}}.",
+      "installation": {
+        "title": "Instalación y onboarding",
+        "line-1": "El video estará disponible muy pronto.",
+        "line-2": "En el siguiente video te mostraremos como podrás instalar la app de {{clientName}} y realizar el proceso de onboarding para integrarte con {{ecommerce}}."
+      },
+      "order-create": {
+        "title": "Compra pagando con {{clientName}}",
+        "line-1": "El video estará disponible muy pronto.",
+        "line-2": "En el siguiente video te mostraremos como tus clientes podrán realizar sus compras en tu tienda pagando con {{clientName}}."
+      },
+      "order-view": {
+        "title": "Gestión de órdenes, devoluciones, anulaciones y capturas de pago",
+        "line-1": "El video estará disponible muy pronto.",
+        "line-2": "En el siguiente video te mostraremos como podrás visualizar las compras realizadas por tus clientes con {{clientName}} desde el panel administrativo de tu tienda y como realizar anulaciones, devoluciones y capturas de pago de las compras."
+      },
+      "configuration": {
+        "title": "Configuraciones adicionales",
+        "line-1": "El video estará disponible muy pronto.",
+        "line-2": "En el siguiente video te mostraremos como podrás configurar promociones para ofrecer a tus clientes con {{clientName}}."
+      },
+      "additional-actions": {
+        "title": "Acciones adicionales",
+        "line-1": "El video estará disponible muy pronto.",
+        "line-2": "En el siguiente video te mostraremos como podrás hacer devolución o anulación de los pagos."
+      }
+    }
+  },
+  "configuration": {
+    "title": "Configuración",
+      "onboarding": {
+      "title": "Onboarding",
+      "description": "El proceso de onboarding es el primer paso para integrar {{clientName}} en tu tienda de {{ecommerce}}.",
+      "line-1": "Al finalizar la instalación de la app serás redirigido al proceso de onboarding donde podrás configurar {{clientName}} en tu tienda {{ecommerce}} de manera sencilla. Si aún no tienes una cuenta en {{clientName}} podrás crearla haciendo clic en el enlace 'Créala aquí', si ya tienes cuenta haz clic en 'Comienza ahora':",
+      "line-2": "En la siguiente pantalla verás cuales son las credenciales necesarias para la integración, haz clic en el botón 'Continuar'.",
+      "line-3": "Si aún no tienes tus cedenciales podras acceder a ellas haciendo clic sobre el enlace 'Encuéntralas aquí', si ya las tienes ingresalas y haz clic en el botón 'Confirmar'.",
+      "line-4": "¡Listo! Ya estarás ofreciendo {{clientName}} como medio de pago a tus clientes. En esta última pantalla del onboarding podrás acceder a 'Ir a configuraciones {{clientName}}' o 'Ir a la tienda de {{ecommerce}}'."
+    },
+    "additional": {
+      "title": "Configuraciones y antifraude",
+      "description": "Podrás realizar configuración de promociones bancarias y antifraude.",
+      "configuration-panel": {
+        "title": "Acceso a panel de configuraciones",
+        "line-1": "Para acceder a estas configuraciones adicionales deberás ingresar al panel de configuraciones. Para acceder tendrás las siguientes 2 opciones:",
+        "line-2": "Desde la última pantalla del onboarding haciendo clic en el botón 'Ir a configuraciones {{clientName}}'.",
+        "line-3": "Desde el panel administrativo de {{ecommerce}}, en la sección 'Ventas > Lista de ventas > Aplicaciones' allí selecciona '{{clientName}} - Configuración de cuotas'."
+      },
+      "promotions": {
+        "title": "Cuotas",
+        "line-1": "Podrás ofrecer a tus clientes promociones por cuotas con y sin intereses por medio de '{{clientName}}'.",
+        "line-2": "Para esto, una vez que hayas ingesado al 'Panel de configuraciones' dirígete a 'Configurar cuotas'.",
+        "line-3": "Inicialmente verás configuradas algunas promociones. Para agregar mas promociones, haz clic sobre el botón 'Agregar promoción'.",
+        "line-4": "Activa el medio de pago, selecciona el banco, selecciona la marca que para la cuál deseas ofrecer la promoción, indica si las cuotas serán con o sin interés, selecciona la cantidad de cuotas, ingresa la url de tu tienda y guarda la promoción.",
+        "line-5": "Luego la verás creada junto a las demás promociones.",
+        "line-6": "Podrás editar la promoción o eliminarla según necesites.",
+        "line-7": "Además al configurar o editar una promoción podrás eliminar o agregar cuotas si lo deseas."
+      },
+      "antifraud": {
+        "title": "Antifraude",
+        "line-1": "Podrás configurar el módulo antifraude para las transacciones con {{clientName}}. ",
+        "line-2": "Una vez que hayas ingresado al 'Panel de configuraciones' dirígete a 'Módulo antifraude'.",
+        "line-3": "Lo primero que deberás hacer es tener tu cuenta de {{clientName}} asociada al servicio antifraude, si aún no la tienes solicitalo haciendo clic en el enlace 'Ingresá acá para hacerlo'.",
+        "line-4": "Finalmente solo deberás habilitar el módulo antifraude."
+        },
+        "operation-type": {
+          "title": "Tipo de operación",
+          "line-1": "Podrás configurar el tipo de operación que deseas ofrecer con {{clientName}}. ",
+          "line-2": "Una vez que hayas ingresado al 'Panel de configuraciones' dirígete a 'Tipo de operación'.",
+          "line-3": "Selecciona el tipo de operación: .",
+          "line-4": "Transacción simple: El pago será capturado automáticamente al momento de la compra.",
+          "line-5": "Transacción en 2 pasos: El pago deberá ser capturado manualmente desde el detalle de la orden."
+          }
+    },
+    "customer-flow": {
+      "title": "Flujo de cliente",
+      "line-1": "En breves pasos, tus clientes podrán pagar con {{clientName}} en tu tienda. En la siguiente guía rápida te mostramos cómo:",
+      "line-2": "Al ingresar los productos al carrito y sus datos de envío y facturación, podrá ver la opción 'Tarjeta de crédito y débito', al seleccionarla podrá realizar el pago con {{clientName}}.",
+      "line-3": "Luego deberá ingresar los datos de la tarjeta, la promoción de cuotas que desea utilizar y el número de documento del titular.",
+      "line-4": "Al abonar satisfactoriamente, volverá a {{ecommerce}} para ver el estado de su pedido."
+    },
+    "admin-flow": {
+      "title": "Flujo de administrador",
+      "description": "Encontrarás información sobre cómo ver los pedidos realizados por tus clientes con {{clientName}}.",
+      "order-view": {
+        "title": "Vista de pedidos",
+        "line-1": "Desde el menú de administración de {{ecommerce}} selecciona 'Ventas > Lista de ventas'.",
+        "line-2": "Y luego podrás ver todos los pedidos recibidos."
+      },
+      "order-details-view": {
+        "title": "Vista de detalle del pedido",
+        "line-1": "Al hacer clic en el número del pedido que desees ver, podrás ver los detalles del mismo.",
+        "line-2": "Una vez que ingreses al detalle del pedido, al final de esta pantalla podrás ver el medio de pago utilizado por el cliente para abonar el pedido, en este caso {{clientName}}."
+      },
+      "additional-actions": {
+        "title": "Acciones adicionales",
+        "line-1": "Devoluciones",
+        "line-2": "Una vez en el detalle de la orden podrás visualizar el 'ID' del pago realizado mediante {{clientName}}, al hacer clic sobre éste serás redirigido a la transacción, dónde podrás ver el detalle de la compra, los estados del pago y las siguientes acciones adicionales:",
+        "line-3": "Podrás hacer devoluciones de la transacción, para esto haz clic en el botón 'Devolver dinero'.",
+        "line-4": "Ingresa el monto que deseas devolver (puede ser total o parcial) y haz clic en el botón 'Confirmar'.",
+        "line-5": "Luego haz clic en el botón 'Si, hacer devolución' y ¡Listo! La devolución se habrá hecho con éxito.",
+        "line-6": "Anulaciones.",
+        "line-7": "Podrás anular la transacción, para esto haz clic en el botón 'Anular compra'.",
+        "line-8": "Luego haz clic en el botón 'Si, anular compra' y ¡Listo! La anulación se habrá hecho con éxito.",
+        "line-9": "Captura de pagos",
+        "line-10": "Podrás capturar los pagos preautorizados para transacciones en 2 pasos. Cuando ofrezcas transacciones en 2 pasos y tus clientes creen órdenes estas se verán de la siguiente manera en {{ecommerce}}:",
+        "line-11": "Luego al ingresar a la transacción podrás capturar el pago."
+      }
+    }
+  },
+  "more": {
+    "title": "Más",
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Preguntas frecuentes sobre la aplicación.",
+      "question-1": {
+        "question": "¿Por qué {{clientName}} no se muestra como medio de pago en mi tienda?",
+        "answer1": "Las credenciales usadas en el proceso de configuración no son correctas. Aunque es muy difícil que esto suceda ya que existen validaciones correspondientes, es una posibilidad que debes tener en cuenta, si sucede, verifica en 'Onboarding' que todos los pasos se hayan realizado correctamente.",
+        "answer2": "El medio de pago se encuentra deshabilitado, desde el panel administrativo de tu tienda ingresa a 'Configuraciones > Medios de pago' y desde allí podrás verificar que {{clientName}} se encuentre activo",
+        "answer3": "La app se encuentra desinstalada, ingresa a 'Mis aplicaciones' y desde allí podrás verificar que esta se encuentre instalada",
+        "answer4": "Si ya verificaste las opciones anteriores y el problema persiste, contacta con soporte."
+      },
+      "question-2": {
+        "question": "¿Para poder pagar con este medio de pago, mis clientes necesitan tener una app de {{clientName}}?",
+        "answer": "Para realizar pagos con {{clientName}} tus clientes deben tener la app instalada en su teléfono, para que puedan escanear el código QR correspondiente a su compra y seleccionar el medio de pago con el que desean pagar."
+      },
+      "question-3": {
+        "question": "¿Se pueden configurar descuentos por promociones bancarias?",
+        "answer": "Si, desde el 'Panel de configuraciones' podrás configurar promociones de cuotas con y sin intereses para los bancos que desees.",
+        "answer-line": "Aquí te mostramos cómo."
+      
+      },
+      "question-4": {
+        "question": "¿Cómo puedo visualizar más información sobre mis transacciones?",
+        "answer": "Desde el panel de {{clientName}} podrás obtener más detalles sobre tus transacciones."
+      },
+      "question-5": {
+        "question": "¿Puedo hacer reembolsos de transacciones?",
+        "answer": "Desde tu tienda {{ecommerce}}, en el detalle del pedido, tendrás la opción 'Reembolso' con la cual podrás devolver una transacción a tu cliente cuando lo requieras."
+      },
+      "question-6": {
+        "question": "¿Se actualiza el estado del pago realizado a través de {{clientName}} en {{ecommerce}}?",
+        "answer": "Si el pago se encuentra en estado: pendiente o aprobado, este estado se actualizará en tu tienda."
+      },
+      "question-7": {
+        "question": "¿Puedo dejar de ofrecer {{clientName}} como medio de pago?",
+        "answer": "Si ya no deseas ofrecer {{clientName}} podrás dejar de ofrecerlo de las 2 siguientes formas:",
+        "answer1": "Desactiva la app, para esto ingresa a 'Configuración > Medios de pago' desde el panel administrativo de tu tienda y desactiva {{clientName}}. Recuerda que cuando quieras ofrecer nuevamente el medio de pago solo debes activar la app.",
+        "answer2": "Desinstala la app, ingresa a 'Mis aplicaciones' desde el panel administrativo de tu tienda y desinstala {{clientName}}. Recuerda que cuando quieras ofrecer nuevamente el medio de pago solo debes volver a instalar la app."
+      }
+    },
+    "support": {
+      "title": "Soporte",
+      "description": "Contáctanos si tienes alguna duda."
+    }
+  },
+  "api": {
+    "title": "API",
+    "description": "Aquí encontrarás la documentación de la API para la aplicación {{clientName}}.",
+    "api-reference": {
+      "title": "Referencia API",
+      "description": "Aquí encontrarás la referencia de la API para la aplicación {{clientName}}."
+    }
+  },
+  "quick-search": {
+    "placeholder": "Buscar...",
+    "no-results": "No se encontraron resultados",
+    "no-results-description": "No pudimos encontrar resultados para tu búsqueda. Por favor, intenta nuevamente.",
+    "items": {
+      "1": {
+        "title": "Cómo instalar la aplicación",
+        "description": "En esta sección encontrarás los pasos a seguir para instalar la aplicación en tu tienda {{ecommerce}}."
+      },
+      "2": {
+        "title": "Cómo configurar la aplicación",
+        "description": "En esta sección encontrarás los pasos a seguir para configurar la aplicación en tu tienda {{ecommerce}}."
+      },
+      "3": {
+        "title": "Cómo desinstalar la aplicación",
+        "description": "En esta sección encontrarás los pasos a seguir para desinstalar la aplicación en tu tienda {{ecommerce}}."
+      },
+      "4": {
+        "title": "Cómo usar la aplicación",
+        "description": "En esta sección encontrarás los pasos a seguir para usar la aplicación en tu tienda {{ecommerce}}."
+      }
+    }
+  },
+  "unauthorized": {
+    "title": "No autorizado",
+    "description": "No tienes permisos para acceder a esta sección."
+  },
+  "languages": {
+    "en": "Inglés",
+    "es": "Español",
+    "pt": "Portugués"
+  }
+}

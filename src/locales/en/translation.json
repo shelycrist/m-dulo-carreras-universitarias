@@ -1,0 +1,243 @@
+{
+	"common": {
+		"previous": "Previous",
+		"next": "Next",
+		"on-this-page": "On this page",
+		"get-them-here": "Get them here",
+		"search": "Search"
+	},
+	"hero": {
+		"title": "Secure payments with {{clientName}}",
+		"subtitle": "Integrate {{clientName}} into your store to accept payments from your users"
+	},
+	"general": {
+		"title": "General",
+		"summary": {
+			"title": "Summary",
+			"description": "This application allows you to connect {{clientName}} as a payment method in your {{ecommerce}}. With the following documentation, you will get the necessary information to install and configure {{clientName}}.",
+			"requirements": {
+				"title": "Requirements",
+				"description": "To offer {{clientName}} as a payment method, you must be registered as a merchant on their platform. If you are not yet registered, enter the following link, where you will find the necessary steps to register and obtain the credentials to log in to your {{ecommerce}}.",
+				"line-title-1": "Customers registered in {{clientName}}.",
+				"line-1": "If you are a payway customer, enter the following link to validate your CUIT",
+				"line-2": "Activate the captcha and start the CUIT validation.",
+				"line-3": "Verify that you have ecommerce establishments. For this, log in to the following link and go to my establishments.",
+				"line-4": "You must have the ecommerce modality to transact from {{ecommerce}}, to enable it go to 'My Establishments > Locate the “Modality” column (It must indicate E-COMMERCE).",
+				"line-5": "And if you are a payway customer but do not have an ecommerce establishment, you can add the modality in the following way:",
+				"line-6": "Select Add new establishment.",
+				"line-7": "Within the establishment configuration section, select Online store.",
+				"line-title-2": "Customers not registered in {{clientName}}.",
+				"line-8": "If you are not a {{clientName}} customer, generate the onboarding and do not forget to request online sales in your cart, you will receive your credentials to set up in {{ecommerce}} and start operating. To carry out the onboarding, follow the steps below:",
+				"line-9": "Enter the following link and at the end of the process, you will receive the credentials in your email, you will also always have them available in the online sales portal. With these, you can configure them in {{ecommerce}} and start operating."
+			},
+			"quick-links": {
+				"title": "Quick links",
+				"description": "Here you will find some quick links to help you get started."
+			}
+		},
+		"installation": {
+			"title": "Onboarding",
+			"description": "The onboarding process is the first step to integrate {{clientName}} into your {{ecommerce}} store.",
+			"line-1": "After finishing the app installation, you will be redirected to the onboarding process where you can easily configure {{clientName}} in your {{ecommerce}} store. For this, click on 'Start now':",
+			"line-2": "Enter your credentials on the following screen.",
+			"line-3": "If they are wrong, you will see the following message.",
+			"line-4": "If they are correct, you will be redirected to the next screen. And that's it! You will have completed the onboarding correctly.",
+			"line-5": "Once you have finished the onboarding by clicking on the 'Go to my Belvo store' button, you will be redirected to the {{ecommerce}} payment methods configuration where you can enable/disable {{clientName}} or configure the test mode."
+		},
+		"tutorial": {
+		"title": "Tutorials",
+		"description": "You will find information on how to view orders made with {{clientName}}.",
+		"installation": {
+			"title": "Installation and onboarding",
+			"line-1": "The video will be available very soon.",
+			"line-2": "In the following video we will show you how you can install the {{clientName}} app and go through the onboarding process to integrate with {{ecommerce}}."
+		},
+		"order-create": {
+			"title": "Purchase by paying with {{clientName}}",
+			"line-1": "The video will be available very soon.",
+			"line-2": "In the following video we will show you how your customers can make their purchases in your store by paying with {{clientName}}."
+		},
+		"order-view": {
+			"title": "Visualization of orders",
+			"line-1": "The video will be available very soon.",
+			"line-2": "In the following video we will show you how you can view the purchases made by your customers with {{clientName}} from the administrative panel of your store."
+			},
+		"configuration": {
+			"title": "Additional configurations",
+			"line-1": "The video will be available very soon.",
+			"line-2": "In the following videos we will show you how you can configure the different promotions that you can offer to your clients, 3Ds and access support."
+			},
+		"additional-actions": {
+			"title": "Additional Actions",
+			"line-1": "The video will be available very soon.",
+			"line-2": "In the following video we will show you how you can refund or cancel payments."
+			}
+    	}
+ 	},
+	 "configuration": {
+			"title": "Configuration",
+			"onboarding": {
+				"title": "Onboarding",
+				"description": "The onboarding process is the first step to integrate {{clientName}} into your {{ecommerce}} store.",
+				"line-1": "After completing the app installation, you will be redirected to the onboarding process where you can easily configure {{clientName}} in your {{ecommerce}} store. If you do not have a {{clientName}} account yet, you can create one by clicking on the 'Create it here' link, if you already have an account click on 'Start now':",
+				"line-2": "In the next screen, you will see what credentials are necessary for the integration, click on the 'Continue' button.",
+				"line-3": "If you do not have your credentials yet, you can access them by clicking on the 'Find them here' link, if you already have them enter them and click on the 'Confirm' button.",
+				"line-4": "Ready! You will now be offering {{clientName}} as a payment method to your customers. On this last onboarding screen, you can access 'Go to {{clientName}} settings' or 'Go to the {{ecommerce}} store'."
+				},
+				"additional": {
+				"title": "Settings and antifraud",
+				"description": "You will be able to configure bank promotions and antifraud settings.",
+				"configuration-panel": {
+				"title": "Access to settings panel",
+				"line-1": "To access these additional settings, you must enter the settings panel. To access, you have the following 2 options:",
+				"line-2": "From the last onboarding screen by clicking on the 'Go to {{clientName}} settings' button.",
+				"line-3": "From the {{ecommerce}} admin panel, in the 'Sales > Sales list > Applications' section there select '{{clientName}} - Installment configuration'."
+				},
+				"promotions": {
+				"title": "Installments",
+				"line-1": "You will be able to offer your customers installment promotions with and without interest through '{{clientName}}'.",
+				"line-2": "For this, once you have entered the 'Settings panel' go to 'Configure installments'.",
+				"line-3": "Initially, you will see some promotions configured. To add more promotions, click on the 'Add promotion' button.",
+				"line-4": "Activate the payment method, select the bank, select the brand for which you want to offer the promotion, indicate whether the installments will be with or without interest, select the number of installments, enter the URL of your store and save the promotion.",
+				"line-5": "Then you will see it created along with the other promotions.",
+				"line-6": "You can edit or delete the promotion as needed.",
+				"line-7": "Also, when configuring or editing a promotion, you can remove or add installments if you wish."
+				},
+				"antifraud": {
+				"title": "Antifraud",
+				"line-1": "You will be able to configure the antifraud module for transactions with {{clientName}}.",
+				"line-2": "Once you have entered the 'Settings panel' go to 'Antifraud module'.",
+				"line-3": "The first thing you must do is have your {{clientName}} account associated with the antifraud service, if you do not have it yet request it by clicking on the 'Enter here to do it' link.",
+				"line-4": "Finally, you just have to enable the antifraud module."
+				},
+				"operation-type": {
+				"title": "Operation type",
+				"line-1": "You will be able to configure the operation type you want to offer with {{clientName}}.",
+				"line-2": "Once you have entered the 'Settings panel' go to 'Operation type'.",
+				"line-3": "Select the type of operation: .",
+				"line-4": "Simple transaction: The payment will be captured automatically at the time of purchase.",
+				"line-5": "2-step transaction: The payment must be captured manually from the order detail."
+				}
+		},
+		"customer-flow": {
+			"title": "Customer flow",
+			"line-1": "In a few steps, your customers will be able to pay with {{clientName}} in your store. In the following quick guide, we show you how:",
+			"line-2": "When adding products to the cart and going to checkout, the buyer will see {{clientName}} as a payment option. By clicking on it, they can make a payment with {{clientName}}.",
+			"line-3": "They will then be redirected to {{clientName}} to select the payment method.",
+			"line-4": "After making a successful payment, they will return to {{ecommerce}} to see the status of their order."
+		},
+		"admin-flow": {
+			"title": "Admin flow",
+			"description": "You will find information on how to view orders made by your customers with {{clientName}}.",
+			"order-view": {
+			"title": "Order view and detail",
+			"line-1": "From the {{ecommerce}} administration menu, select 'Sales > Sales List'.",
+			"line-2": "And then you will be able to see all the orders received."
+		},
+		"order-details-view": {
+			"title": "Order detail view",
+			"line-1": "By clicking on the order number you want to see, you can view its details.",
+			"line-2": "Once you enter the order detail, at the end of this screen you can see the payment method used by the customer to pay for the order, in this case {{clientName}}."
+		},
+		"additional-actions": {
+			"title": "Additional actions",
+			"line-1": "Refunds",
+			"line-2": "Once on the order detail, you can view the 'ID' of the payment made through {{clientName}}. By clicking on it, you will be redirected to the transaction, where you can see the purchase details, payment statuses, and the following additional actions:",
+			"line-3": "You can refund the transaction. For this, click on the 'Refund money' button.",
+			"line-4": "Enter the amount you wish to refund (it can be total or partial) and click the 'Confirm' button.",
+			"line-5": "Then click on the 'Yes, make refund' button and Done! The refund will have been made successfully.",
+			"line-6": "Cancellations.",
+			"line-7": "You can cancel the transaction. For this, click on the 'Cancel purchase' button.",
+			"line-8": "Then click on the 'Yes, cancel purchase' button and Done! The cancellation will have been made successfully.",
+			"line-9": "Payment capture",
+        	"line-10": "You will be able to capture pre-authorized payments for 2-step transactions. When you offer 2-step transactions and your customers create orders they will look like this in {{ecommerce}}:",
+        	"line-11": "Then when you enter the transaction you will be able to capture the payment"
+		}
+		}
+	},		
+	"more": {
+			"title": "More",
+			"faq": {
+			  "title": "Frequently Asked Questions",
+			  "description": "Frequently asked questions about the application.",
+			  "question-1": {
+				"question": "Why isn't {{clientName}} showing as a payment method in my store?",
+				"answer1": "The credentials used in the configuration process are not correct. Although it is very unlikely as there are corresponding validations, it is a possibility you should keep in mind, if it happens, check in 'Onboarding' that all steps have been completed correctly.",
+				"answer2": "The payment method is disabled, from your store's admin panel go to 'Settings > Payment methods' and from there you can verify that {{clientName}} is active",
+				"answer3": "The app is uninstalled, go to 'My Apps' and from there you can verify that it is installed",
+				"answer4": "If you have checked the previous options and the problem persists, contact support."
+			  },
+			  "question-2": {
+				"question": "Do my customers need to have the {{clientName}} app to pay with this payment method?",
+				"answer": "To make payments with {{clientName}}, your customers must have the app installed on their phone, so they can scan the QR code corresponding to their purchase and select the payment method they wish to use."
+			  },
+			  "question-3": {
+				"question": "Can I configure discounts for bank promotions?",
+				"answer": "Yes, from the 'Configuration Panel' you can configure installments promotions with and without interest for the banks you wish. Here we show you how:",
+				"answer-line": "Here we show you how to do it."
+			  },
+			  "question-4": {
+				"question": "How can I view more information about my transactions?",
+				"answer": "From the {{clientName}} panel you can get more details about your transactions."
+			  },
+			  "question-5": {
+				"question": "Can I make transaction refunds?",
+				"answer": "From your {{ecommerce}} store, in the order detail, you will have the 'Refund' option with which you can return a transaction to your customer when needed."
+			  },
+			  "question-6": {
+				"question": "Is the status of the payment made through {{clientName}} updated in {{ecommerce}}?",
+				"answer": "If the payment is in a state: pending or approved, this state will be updated in your store."
+			  },
+			  "question-7": {
+				"question": "Can I stop offering {{clientName}} as a payment method?",
+				"answer": "If you no longer wish to offer {{clientName}}, you can stop offering it in the following 2 ways:",
+				"answer1": "Disable the app, to do this go to 'Settings > Payment methods' from your store's admin panel and disable {{clientName}}. Remember that when you want to offer the payment method again, you just need to activate the app.",
+				"answer2": "Uninstall the app, go to 'My Apps' from your store's admin panel and uninstall {{clientName}}. Remember that when you want to offer the payment method again, you just need to reinstall the app."
+			  }
+			},
+			"support": {
+			  "title": "Support",
+			  "description": "Contact us if you have any questions."
+			}
+	},
+	"api": {
+		"title": "API",
+		"description": "Here you will find the API documentation for the {{clientName}} app.",
+		"api-reference": {
+			"title": "API Reference",
+			"description": "Here you will find the API reference for the {{clientName}} app."
+		}
+	},
+	"quick-search": {
+		"placeholder": "Search...",
+		"no-results": "No results found",
+		"no-results-description": "We couldn't find any results for your search. Please try again.",
+		"items": {
+			"1": {
+				"title": "How to install the app",
+				"description": "In this section, you will find the steps to follow to install the app in your {{ecommerce}} store."
+			},
+			"2": {
+				"title": "How to configure the app",
+				"description": "In this section, you will find the steps to follow to configure the app in your {{ecommerce}} store."
+			},
+			"3": {
+				"title": "How to uninstall the app",
+				"description": "In this section, you will find the steps to follow to uninstall the app from your {{ecommerce}} store."
+			},
+			"4": {
+				"title": "How to use the app",
+				"description": "In this section, you will find the steps to follow to use the app in your {{ecommerce}} store."
+			}
+		}
+	},
+	"unauthorized": {
+		"title": "Unauthorized",
+		"description": "You are not authorized to access this page."
+	},
+	"languages": {
+		"en": "English",
+		"es": "Spanish",
+		"pt": "Portuguese"
+	}
+}

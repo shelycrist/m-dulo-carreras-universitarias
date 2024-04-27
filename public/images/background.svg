@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2320"
+  height="1436" style="">
+  <rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" />
+  <defs>
+    <style>
+      .a{fill:#315bcb;}.b{fill:url(#a);}.c{fill:url(#b);}.d,.e,.f,.g{opacity:0.672;}.d{fill:url(#c);}.e{fill:url(#d);}.f{fill:url(#e);}.g{fill:url(#f);}</style>
+    <radialGradient id="a" cx="0.6209999918937683" cy="0.531000018119812" r="0.4779999852180481"
+      gradientTransform="translate(0 -0.368) scale(1 1.736)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004a98" stop-opacity="0" />
+      <stop offset="1" stop-color="#004a98" stop-opacity="0.235" />
+    </radialGradient>
+    <linearGradient id="b" x1="0.0430000014603138" y1="0.024000000208616257" x2="0.5" y2="1"
+      gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004a98" stop-opacity="0.992" />
+      <stop offset="1" stop-color="#004a98" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="c" cx="0.9629999995231628" cy="0.5659999847412109" r="0.5550000071525574"
+      gradientTransform="matrix(1, 0, 0, 0.536, 0, 0.206)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00f6ff" stop-opacity="0.616" />
+      <stop offset="1" stop-color="#00f6ff" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="d" cx="1.1799999475479126" cy="0.3009999990463257" r="0.49000000953674316"
+      gradientTransform="matrix(1, 0, 0, 0.717, 0, 0.142)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00f6ff" stop-opacity="0.835" />
+      <stop offset="1" stop-color="#00f6ff" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="e" cx="0.019999999552965164" cy="0.9380000233650208" r="0.5920000076293945"
+      gradientTransform="matrix(1, 0, 0, 1.219, 0, -0.206)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00f6ff" stop-opacity="0.604" />
+      <stop offset="1" stop-color="#00f6ff" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="f" cx="-0.1509999930858612" cy="0.5870000123977661" r="0.4749999940395355"
+      gradientTransform="matrix(1, -0.001, 0.001, 1.06, 0, -0.026)"
+      gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00f6ff" stop-opacity="0.514" />
+      <stop offset="1" stop-color="#00f6ff" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <g class="currentLayer" style="">
+    <title>Layer 1</title>
+    <g transform="rotate(180, 1201.5, 715.561)" id="svg_1" class="">
+      <rect class="a" width="2445.026727110915" height="1446.5689233086398" y="-7.723177898494895"
+        x="-27.66701714359443" id="svg_2" />
+      <rect class="b" width="2458.3412290902324" height="1446.5689233086398" y="-7.723177898494895"
+        x="-27.66701714359443" id="svg_3" />
+      <rect class="c" width="2445.026727110915" height="1446.5689233086398" y="-7.723177898494895"
+        x="-27.66701714359443" id="svg_4" />
+      <rect class="d" width="2445.026727110915" height="1446.5689233086398" y="-7.723177898494895"
+        x="-27.66701714359443" id="svg_5" />
+      <rect class="e" width="2445.026727110915" height="1446.5689233086398" y="-7.723177898494895"
+        x="-27.66701714359443" id="svg_6" />
+      <rect class="f" width="2445.026727110915" height="1446.5689233086398" y="-7.723177898494895"
+        x="-27.66701714359443" id="svg_7" />
+      <rect class="g" width="2445.026727110915" height="1446.5689233086398" y="-7.723177898494895"
+        x="-27.66701714359443" id="svg_8" />
+    </g>
+  </g>
+</svg>

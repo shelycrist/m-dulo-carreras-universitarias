@@ -1,0 +1,242 @@
+{
+	"common": {
+		"previous": "Antigo",
+		"next": "Próximo",
+		"on-this-page": "Nesta página",
+		"get-them-here": "Consiga-os aqui"
+	},
+	"hero": {
+		"title": "Pagamentos seguros com {{clientName}}",
+		"subtitle": "Integre {{clientName}} em sua loja para aceitar pagamentos de seus usuários"
+	},
+	"general": {
+		"title": "Geral",
+		"summary": {
+			"title": "Resumo",
+			"description": "Esta aplicação permite conectar {{clientName}} como meio de pagamento em sua {{ecommerce}}. Com a seguinte documentação, você obterá as informações necessárias para instalar e configurar {{clientName}}.",
+			"requirements": {
+				"title": "Requisitos",
+				"description": "Para oferecer {{clientName}} como método de pagamento, você deve estar registrado como comerciante na plataforma deles. Se ainda não estiver registrado, acesse o seguinte link, onde você encontrará os passos necessários para se registrar e obter as credenciais para acessar seu {{ecommerce}}.",
+				"line-title-1": "Clientes registrados em {{clientName}}.",
+				"line-1": "Se você é cliente da payway, acesse o seguinte link para validar seu CUIT",
+				"line-2": "Ative o captcha e comece a validação do CUIT.",
+				"line-3": "Verifique se você tem estabelecimentos de comércio eletrônico. Para isso, faça login no seguinte link e acesse meus estabelecimentos.",
+				"line-4": "Você deve ter a modalidade de comércio eletrônico para transacionar a partir do {{ecommerce}}, para ativá-la vá para 'Meus Estabelecimentos > Localize a coluna “Modalidade” (Deve indicar E-COMMERCE).",
+				"line-5": "E se você é cliente da payway, mas não tem um estabelecimento de comércio eletrônico, você pode adicionar a modalidade da seguinte maneira:",
+				"line-6": "Selecione Adicionar novo estabelecimento.",
+				"line-7": "Na seção de configuração do estabelecimento, selecione Loja online.",
+				"line-title-2": "Clientes não registrados em {{clientName}}.",
+				"line-8": "Se você não é cliente do {{clientName}}, gere o onboarding e não esqueça de solicitar vendas online no seu carrinho, você receberá suas credenciais para configurar na {{ecommerce}} e começar a operar. Para realizar o onboarding, siga os passos abaixo:",
+				"line-9": "Acesse o seguinte link e, ao final do processo, você receberá as credenciais no seu e-mail, além de tê-las sempre disponíveis no portal de vendas online. Com elas, você poderá configurá-las no {{ecommerce}} e começar a operar."
+			},
+			"quick-links": {
+				"title": "Links rápidos",
+				"description": "Aqui você encontrará alguns links rápidos para ajudá-lo a começar."
+			}
+		},
+		"installation": {
+			"title": "Integração",
+			"description": "O processo de integração é o primeiro passo para integrar o {{clientName}} na sua loja {{ecommerce}}.",
+			"line-1": "Após finalizar a instalação do aplicativo, você será redirecionado para o processo de integração onde poderá configurar o {{clientName}} na sua loja {{ecommerce}} de maneira simples. Para isso, clique em 'Começar agora':",
+			"line-2": "Insira suas credenciais na próxima tela.",
+			"line-3": "Se estiverem erradas, você verá a seguinte mensagem.",
+			"line-4": "Se estiverem corretas, você será redirecionado para a próxima tela. E pronto! Você terá concluído a integração corretamente.",
+			"line-5": "Uma vez que você tenha terminado a integração ao clicar no botão 'Ir para minha loja Belvo', você será redirecionado para a configuração de métodos de pagamento do {{ecommerce}} onde você pode habilitar/desabilitar o {{clientName}} ou configurar o modo de teste."
+		},
+		"tutorial": {
+			"title": "Tutoriais",
+			"description": "Você encontrará informações sobre como visualizar pedidos feitos com o {{clientName}}.",
+			"installation": {
+				"title": "Instalação e integração",
+				"line-1": "O vídeo estará disponível muito em breve.",
+				"line-2": "No vídeo a seguir, mostraremos como você pode instalar o aplicativo {{clientName}} e passar pelo processo de integração para integrar com o {{ecommerce}}."
+			},
+			"order-create": {
+				"title": "Compra pagando com {{clientName}}",
+				"line-1": "O vídeo estará disponível muito em breve.",
+				"line-2": "No vídeo a seguir, mostraremos como seus clientes podem fazer suas compras em sua loja pagando com {{clientName}}."
+			},
+			"order-view": {
+				"title": "Visualização de pedidos",
+				"line-1": "O vídeo estará disponível muito em breve.",
+				"line-2": "No vídeo a seguir, mostraremos como você pode visualizar as compras feitas por seus clientes com o {{clientName}} a partir do painel administrativo de sua loja."
+			},
+			"configuration": {
+				"title": "Configurações adicionais",
+				"line-1": "O vídeo estará disponível muito em breve.",
+				"line-2": "Nos vídeos seguintes mostraremos como você pode configurar as diferentes promoções que pode oferecer aos seus clientes, 3Ds e acessar suporte."
+			  },
+			"addiional-actions": {
+				"title": "Ações Adicionais",
+				"line-1": "O vídeo estará disponível em breve.",
+				"line-2": "No vídeo a seguir mostraremos como você pode reembolsar ou cancelar pagamentos."
+			  }
+		}
+	},
+	"configuration": {
+		"title": "Configuração",
+		"onboarding": {
+			"title": "Integração",
+			"description": "O processo de integração é o primeiro passo para integrar o {{clientName}} em sua loja {{ecommerce}}.",
+			"line-1": "Após concluir a instalação do aplicativo, você será redirecionado para o processo de integração, onde poderá configurar o {{clientName}} em sua loja {{ecommerce}} de forma simples. Se você ainda não tem uma conta no {{clientName}}, poderá criar uma clicando no link 'Criar aqui', se já tem uma conta, clique em 'Começar agora':",
+			"line-2": "Na próxima tela, você verá quais credenciais são necessárias para a integração, clique no botão 'Continuar'.",
+			"line-3": "Se você ainda não tem suas credenciais, poderá acessá-las clicando no link 'Encontre-as aqui', se já as tiver, insira-as e clique no botão 'Confirmar'.",
+			"line-4": "Pronto! Você agora estará oferecendo o {{clientName}} como método de pagamento para seus clientes. Nesta última tela de integração, você poderá acessar 'Ir para configurações do {{clientName}}' ou 'Ir para a loja {{ecommerce}}'."
+			},
+			"additional": {
+			"title": "Configurações e Antifraude",
+			"description": "Você poderá configurar promoções bancárias e configurações antifraude.",
+			"configuration-panel": {
+			"title": "Acesso ao painel de configurações",
+			"line-1": "Para acessar essas configurações adicionais, você deve entrar no painel de configurações. Para acessar, você tem as seguintes 2 opções:",
+			"line-2": "Da última tela de integração clicando no botão 'Ir para configurações do {{clientName}}'.",
+			"line-3": "Do painel administrativo do {{ecommerce}}, na seção 'Vendas > Lista de vendas > Aplicativos' selecione '{{clientName}} - Configuração de parcelas'."
+			},
+			"promotions": {
+			"title": "Parcelas",
+			"line-1": "Você poderá oferecer aos seus clientes promoções de parcelamento com e sem juros por meio do '{{clientName}}'.",
+			"line-2": "Para isso, uma vez que você tenha entrado no 'Painel de configurações', vá para 'Configurar parcelas'.",
+			"line-3": "Inicialmente, você verá algumas promoções configuradas. Para adicionar mais promoções, clique no botão 'Adicionar promoção'.",
+			"line-4": "Ative o método de pagamento, selecione o banco, selecione a marca para a qual deseja oferecer a promoção, indique se as parcelas serão com ou sem juros, selecione o número de parcelas, insira a URL da sua loja e salve a promoção.",
+			"line-5": "Então, você a verá criada junto com as outras promoções.",
+			"line-6": "Você pode editar ou excluir a promoção conforme necessário.",
+			"line-7": "Além disso, ao configurar ou editar uma promoção, você pode remover ou adicionar parcelas se desejar."
+			},
+			"antifraud": {
+			"title": "Antifraude",
+			"line-1": "Você poderá configurar o módulo antifraude para transações com o {{clientName}}.",
+			"line-2": "Uma vez que você tenha entrado no 'Painel de configurações', vá para 'Módulo antifraude'.",
+			"line-3": "A primeira coisa que você deve fazer é ter sua conta {{clientName}} associada ao serviço antifraude, se ainda não a tem, solicite-a clicando no link 'Entre aqui para fazer isso'.",
+			"line-4": "Finalmente, você só precisa habilitar o módulo antifraude."
+			},
+			"operation-type": {
+			"title": "Tipo de operação",
+			"line-1": "Você poderá configurar o tipo de operação que deseja oferecer com o {{clientName}}.",
+			"line-2": "Uma vez que você tenha entrado no 'Painel de configurações', vá para 'Tipo de operação'.",
+			"line-3": "Selecione o tipo de operação:",
+			"line-4": "Transação simples: O pagamento será capturado automaticamente no momento da compra.",
+			"line-5": "Transação em 2 etapas: O pagamento deverá ser capturado manualmente a partir do detalhe do pedido."
+			}
+		},
+		"customer-flow": {
+			"title": "Fluxo do cliente",
+			"line-1": "Em poucos passos, seus clientes poderão pagar com {{clientName}} na sua loja. No seguinte guia rápido, mostramos como:",
+			"line-2": "Ao adicionar produtos ao carrinho e ir para o checkout, o comprador verá {{clientName}} como uma opção de pagamento. Ao clicar nela, poderá fazer um pagamento com {{clientName}}.",
+			"line-3": "Então será redirecionado para {{clientName}} para selecionar o método de pagamento.",
+			"line-4": "Após fazer o pagamento com sucesso, voltará para {{ecommerce}} para ver o status do seu pedido."
+		},
+		"admin-flow": {
+			"title": "Fluxo do administrador",
+			"description": "Você encontrará informações sobre como ver os pedidos feitos pelos seus clientes com {{clientName}}.",
+			"order-view": {
+			"title": "Visualização de pedidos e detalhes",
+			"line-1": "Do menu de administração do {{ecommerce}} selecione 'Vendas > Lista de vendas'.",
+			"line-2": "E então você poderá ver todos os pedidos recebidos."
+		},
+		"order-details-view": {
+			"title": "Visualização de detalhes do pedido",
+			"line-1": "Ao clicar no número do pedido que você deseja ver, poderá ver os detalhes do mesmo.",
+			"line-2": "Uma vez que você entre no detalhe do pedido, no final desta tela poderá ver o método de pagamento usado pelo cliente para pagar o pedido, neste caso {{clientName}}."
+		},
+		"additional-actions": {
+			"title": "Ações adicionais",
+			"line-1": "Devoluções",
+			"line-2": "Uma vez no detalhe do pedido, você poderá visualizar o 'ID' do pagamento feito através de {{clientName}}. Ao clicar nele, você será redirecionado para a transação, onde poderá ver os detalhes da compra, os estados do pagamento e as seguintes ações adicionais:",
+			"line-3": "Você pode reembolsar a transação. Para isso, clique no botão 'Devolver dinheiro'.",
+			"line-4": "Insira o valor que deseja reembolsar (pode ser total ou parcial) e clique no botão 'Confirmar'.",
+			"line-5": "Depois clique no botão 'Sim, fazer reembolso' e Pronto! O reembolso terá sido feito com sucesso.",
+			"line-6": "Cancelamentos.",
+			"line-7": "Você pode cancelar a transação. Para isso, clique no botão 'Cancelar compra'.",
+			"line-8": "Depois clique no botão 'Sim, cancelar compra' e Pronto! O cancelamento terá sido feito com sucesso.",
+			"line-9": "Captura de pagamento",
+        	"line-10": "Você poderá capturar pagamentos pré-autorizados para transações em duas etapas. Quando você oferece transações em duas etapas e seus clientes criam pedidos, eles ficarão assim em {{ecommerce}}:",
+        	"line-11": "Então quando você inserir a transação você poderá capturar o pagamento"
+		}		
+		}
+	},
+	"more": {
+		"title": "Mais",
+		"faq": {
+		  "title": "Perguntas frequentes",
+		  "description": "Perguntas frequentes sobre a aplicação.",
+		  "question-1": {
+			"question": "Por que {{clientName}} não aparece como método de pagamento na minha loja?",
+			"answer1": "As credenciais usadas no processo de configuração não estão corretas. Embora seja muito improvável, pois existem as validações correspondentes, é uma possibilidade que você deve ter em mente, se isso acontecer, verifique em 'Onboarding' que todos os passos foram realizados corretamente.",
+			"answer2": "O método de pagamento está desativado, do painel administrativo da sua loja vá para 'Configurações > Métodos de pagamento' e a partir daí você pode verificar que {{clientName}} está ativo",
+			"answer3": "O aplicativo está desinstalado, vá para 'Meus aplicativos' e a partir daí você pode verificar que ele está instalado",
+			"answer4": "Se você verificou as opções anteriores e o problema persiste, entre em contato com o suporte."
+		  },
+		  "question-2": {
+			"question": "Para pagar com este método de pagamento, meus clientes precisam ter o aplicativo {{clientName}}?",
+			"answer": "Para fazer pagamentos com {{clientName}}, seus clientes devem ter o aplicativo instalado em seu telefone, para que possam escanear o código QR correspondente à sua compra e selecionar o método de pagamento que desejam usar."
+		  },
+		  "question-3": {
+			"question": "Posso configurar descontos para promoções bancárias?",
+			"answer": "Sim, a partir do 'Painel de configuração', você pode configurar promoções de parcelamento com e sem juros para os bancos que desejar. Aqui mostramos como:",
+			"answer-line": "Aqui mostramos como fazer."
+		  },
+		  "question-4": {
+			"question": "Como posso visualizar mais informações sobre minhas transações?",
+			"answer": "Do painel {{clientName}} você pode obter mais detalhes sobre suas transações."
+		  },
+		  "question-5": {
+			"question": "Posso fazer reembolsos de transações?",
+			"answer": "Da sua loja {{ecommerce}}, no detalhe do pedido, você terá a opção 'Reembolso' com a qual poderá devolver uma transação ao seu cliente quando necessário."
+		  },
+		  "question-6": {
+			"question": "O status do pagamento feito através de {{clientName}} é atualizado no {{ecommerce}}?",
+			"answer": "Se o pagamento estiver em um estado: pendente ou aprovado, este estado será atualizado em sua loja."
+		  },
+		  "question-7": {
+			"question": "Posso deixar de oferecer {{clientName}} como método de pagamento?",
+			"answer": "Se você não deseja mais oferecer {{clientName}}, pode deixar de oferecê-lo das seguintes 2 maneiras:",
+			"answer1": "Desative o aplicativo, para isso vá para 'Configurações > Métodos de pagamento' do painel administrativo da sua loja e desative {{clientName}}. Lembre-se que quando quiser oferecer o método de pagamento novamente, só precisa ativar o aplicativo.",
+			"answer2": "Desinstale o aplicativo, vá para 'Meus aplicativos' do painel administrativo da sua loja e desinstale {{clientName}}. Lembre-se que quando quiser oferecer o método de pagamento novamente, só precisa reinstalar o aplicativo."
+		  }
+		},
+		"support": {
+		  "title": "Suporte",
+		  "description": "Contate-nos se você tiver alguma dúvida."
+		}
+	},
+	"api": {
+			"title": "API",
+			"description": "Aqui você encontrará a documentação da API para o aplicativo {{clientName}}.",
+			"api-reference": {
+				"title": "Referência API",
+				"description": "Aqui você encontrará a referência da API para o aplicativo {{clientName}}."
+			}
+	},
+	"quick-search": {
+			"placeholder": "Pesquisar...",
+			"no-results": "Nenhum resultado encontrado",
+			"no-results-description": "Não conseguimos encontrar nenhum resultado para sua pesquisa. Por favor, tente novamente.",
+			"items": {
+				"1": {
+					"title": "Como instalar o aplicativo",
+					"description": "Nesta seção você encontrará os passos a seguir para instalar o aplicativo em sua loja {{ecommerce}}."
+				},
+				"2": {
+					"title": "Como configurar o aplicativo",
+					"description": "Nesta seção você encontrará os passos a seguir para configurar o aplicativo em sua loja {{ecommerce}}."
+				},
+				"3": {
+					"title": "Como desinstalar o aplicativo",
+					"description": "Nesta seção você encontrará os passos a seguir para desinstalar o aplicativo em sua loja {{ecommerce}}."
+				},
+				"4": {
+					"title": "Como usar o aplicativo",
+					"description": "Nesta seção você encontrará os passos a seguir para usar o aplicativo em sua loja {{ecommerce}}."
+				}
+			}
+	},
+	"unauthorized": {
+			"title": "Não autorizado",
+			"description": "Você não tem permissão para acessar esta página."
+	},
+	"languages": {
+			"en": "Inglês",
+			"es": "Espanhol",
+			"pt": "Português"
+      }
+}
