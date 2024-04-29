@@ -1,5 +1,5 @@
 # Estado Lara
 
-[![Gestión pública](/images/gestion/publica.png)](/docs/lara/gestion-publica-portuguesa)
+[![Gestión pública](/images/gestion/publica.png)](/docs/portuguesa/gestion-publica-portuguesa)
 
-[![Gestión privada](/images/gestion/privada.png)](/docs/lara/gestion-privada-portuguesa)
+[![Gestión privada](/images/gestion/privada.png)](/docs/portuguesa/gestion-privada-portuguesa)

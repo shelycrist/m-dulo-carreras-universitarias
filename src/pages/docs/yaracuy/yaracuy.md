@@ -1,5 +1,5 @@
 # Estado Yaracuy
 
-[![Gestión pública](/images/gestion/publica.png)](/docs/falcon/gestion-publica-yaracuy)
+[![Gestión pública](/images/gestion/publica.png)](/docs/yaracuy/gestion-publica-yaracuy)
 
-[![Gestión privada](/images/gestion/privada.png)](/docs/falcon/gestion-privada-yaracuy)
+[![Gestión privada](/images/gestion/privada.png)](/docs/yaracuy/gestion-privada-yaracuy)
