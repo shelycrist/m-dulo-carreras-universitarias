@@ -1,6 +1,6 @@
 # Universidad Centroccidental Lisantro Alvarado
 
-Ofrede diferentes opciones de estudio en Barquisimeto, El Tocuyo y Cabudare en las siguientes áreas de conocimiento:
+Ofrece diferentes opciones de estudio en Barquisimeto, El Tocuyo y Cabudare en las siguientes áreas de conocimiento:
 
 | | | |
 |---|---|---|
