@@ -1,25 +1,12 @@
----
-title: general.installation.title
-description: Quidem magni aut exercitationem maxime rerum eos.
----
+# Gestión privada - Estado Lara
 
-general.installation.line-1
-
-[➡️](https://www.tiendanube.com/login)
-
-![general.installation.title](/images/installation/001.png)
+| | | |
+|---|---|---|
+| ![UFT](/images/universidades/uft.png) | ![CUFT](/images/universidades/cuft.png) | ![UNY](/images/universidades/uny.png) |
+| [Universidad Privada Fermín Toro](/docs/lara/universidades/uft) | [Colegio Universitario Fermín Toro](/docs/lara/universidades/cuft) | [Universidad Nacional Yacambú](/docs/lara/universidades/uny) |
+| ![IUTAJS](/images/universidades/iutajs.png) | ![IUJO](/images/universidades/iujo.png) | ![IUTIRLA](/images/universidades/iutirla.png) |
+| [Instituto Universitario de Tecnología Antonio José de Sucre](/docs/lara/universidades/iutajs) | [Instituto Universitario Jesús Obrero](/docs/lara/universidades/iujo) | [Instituto Universitario de Tecnología Industrial Rodolfo Loero Arismendi](/docs/lara/universidades/iutirla) |
 
 
-general.installation.line-2
 
 
-[➡️ https://tiendanube.com/apps/8676/authorize](https://tiendanube.com/apps/8676/authorize)
-
-
-general.installation.line-3
-
-![general.installation.title](/images/installation/payway-tn-correc-inst-001.png)
-
-general.installation.line-4
-
-![general.installation.title](/images/installation/payway-tn-002.png)
