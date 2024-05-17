@@ -46,20 +46,6 @@ La Universidad de las Ciencias de la Salud "Hugo Chávez Frías" se centra en la
 * **Perfil del egresado:** 
   El egresado será capaz de proporcionar atención médica integral, gestionar servicios de salud comunitarios, y participar en la promoción de la salud y prevención de enfermedades en las comunidades.
 
-### Radioimagenología
-
-* **Sede:** 
-  * CABES Lara (Estado: Lara Municipio: Palavecino Parroquia: Agua Viva)
-
-* **Descripción:** 
-  Programa que forma profesionales en el uso de técnicas de imagen para el diagnóstico médico, capacitados para operar equipos de radiografía, tomografía, resonancia magnética y otros métodos de imagenología médica.
-
-* **Título del egresado:** 
-  Licenciado en Radioimagenología
-
-* **Perfil del egresado:** 
-  El egresado será competente en la realización e interpretación de estudios de imagen médica, el manejo de equipos de diagnóstico por imagen, y la colaboración con otros profesionales de la salud para el diagnóstico y tratamiento de enfermedades.
-
 ### Odontología
 
 * **Sede:** 

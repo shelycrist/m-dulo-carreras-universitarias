@@ -16,7 +16,7 @@ export const leftNavigation = [
     title: 'ESTADO',
     links: [
       { title: 'Lara', href: '/docs/lara/lara' },
-      { title: 'Falcó', href: '/docs/falcon/falcon' },
+      { title: 'Falcón', href: '/docs/falcon/falcon' },
       { title: 'Yaracuy', href: '/docs/yaracuy/yaracuy' },
       { title: 'Portuguesa', href: '/docs/portuguesa/portuguesa' },
     ],

@@ -1,77 +1,30 @@
----
-title: general.summary.title
-pageTitle: general.summary.title
-description: Integrate clip to your Tiendanube store
----
+# Orientación Vocacional: Explorando Carreras Universitarias en la Región Centroccidental
 
-general.summary.description{% .lead %}
+Bienvenidos al módulo de Orientación Vocacional, diseñado exclusivamente para los estudiantes de la Unidad Educativa San Francisco Javier. Este recurso está creado con el objetivo de ayudar a los estudiantes de educación media a descubrir y explorar las diversas opciones académicas disponibles en las universidades de la región Centroccidental de Venezuela.
 
-# general.summary.requirements.title
+## ¿Por Qué Explorar Carreras en la Región Centroccidental?
 
-general.summary.requirements.description
+La región Centroccidental, conocida por su diversidad geográfica y cultural, alberga varias instituciones de educación superior que ofrecen una amplia gama de programas académicos. Desde ingenierías hasta ciencias sociales, cada universidad ofrece programas únicos diseñados para preparar a los estudiantes para los desafíos del mañana. Explorar estas opciones locales no solo es conveniente en términos de proximidad, sino que también puede brindar oportunidades de crecimiento dentro de la propia comunidad.
 
-## general.summary.requirements.line-title-1
+## Objetivos del Módulo
 
-general.summary.requirements.line-1
+- **Informar** sobre las distintas carreras universitarias disponibles en la región, detallando áreas de estudio, requisitos y oportunidades futuras.
+- **Orientar** a los estudiantes hacia una elección de carrera consciente y fundamentada, alineada con sus intereses y habilidades.
+- **Inspirar** a los estudiantes a alcanzar sus metas educativas y profesionales, destacando historias de éxito locales.
 
-[➡️ https://mi.payway.com.ar/ms/ui-login/onboarding/](https://mi.payway.com.ar/ms/ui-login/onboarding/)
+## Contenido del Módulo
 
+El módulo incluye descripciones detalladas de las carreras ofrecidas en instituciones clave como la Universidad Centroccidental Lisandro Alvarado, entre otras. Cada descripción abarca:
 
-general.summary.requirements.line-2
-
-![general.summary.requirements.title](/images/requirements/payway-tn-requisitos-001.jpg)
-
-![general.summary.requirements.title](/images/requirements/payway-tn-requisitos-002.jpg)
-
-![general.summary.requirements.title](/images/requirements/payway-tn-requisitos-003.png)
-
-general.summary.requirements.line-3
-
-general.summary.requirements.line-4
-
-[ https://mi.payway.com.ar/ms/ui-login/login]( https://mi.payway.com.ar/ms/ui-login/login)
-
-![general.summary.requirements.title](/images/requirements/payway-tn-requisitos-004.jpg)
-
-![general.summary.requirements.title](/images/requirements/payway-tn-requisitos-005.jpg)
-
-general.summary.requirements.line-5
-
-general.summary.requirements.line-6
-
-![general.summary.requirements.title](/images/requirements/payway-tn-requisitos-006.jpg)
-
-general.summary.requirements.line-7
-
-![general.summary.requirements.title](/images/requirements/payway-tn-requisitos-007.jpg)
+- **Áreas de conocimiento**: Desde las ciencias básicas hasta la ingeniería y las humanidades.
+- **Detalles del programa**: Información sobre la duración, el currículo y los títulos ofrecidos.
+- **Perfiles profesionales**: Qué esperar después de graduarse en términos de empleabilidad y campos de trabajo.
 
 
-## general.summary.requirements.line-title-2
+## Beneficios de la Orientación Vocacional
 
-general.summary.requirements.line-8
+- **Claridad en la elección de carrera**: Ayuda a los estudiantes a elegir un camino que realmente resuene con sus pasiones y habilidades.
+- **Preparación para el futuro**: Proporciona una base sólida sobre la cual los estudiantes pueden planificar su educación superior y carrera profesional.
+- **Conexión con la comunidad**: Fomenta un sentido de pertenencia y oportunidades al considerar estudios y empleo dentro de la región.
 
-general.summary.requirements.line-9
-
-[➡️ https://mi.payway.com.ar/ms/ui-login/onboarding/](https://mi.payway.com.ar/ms/ui-login/onboarding/)
-
-![general.summary.requirements.title](/images/requirements/payway-tn-requisitos-008.jpg)
-
-![general.summary.requirements.title](/images/requirements/payway-tn-requisitos-009.jpg)
-
-![general.summary.requirements.title](/images/requirements/payway-tn-requisitos-010.jpg)
-
----
-
-# general.summary.quick-links.title
-
-{% quick-links %}
-
-{% quick-link title="general.installation.title" icon="installation" href="/docs/installation" description="general.installation.description" /%}
-
-{% quick-link title="configuration.onboarding.title" icon="presets" href="/docs/onboarding" description="configuration.onboarding.description" /%}
-
-{% quick-link title="more.faq.title" icon="lightbulb" href="/docs/faq" description="more.faq.description" /%}
-
-{% quick-link title="configuration.admin-flow.title" icon="theming" href="/docs/admin-flow" description="configuration.admin-flow.description" /%}
-
-{% /quick-links %}
+Este módulo es una puerta de entrada al futuro académico y profesional de nuestros estudiantes, brindándoles todas las herramientas necesarias para tomar decisiones informadas y exitosas. 

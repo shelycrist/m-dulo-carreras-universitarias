@@ -3,32 +3,121 @@
 Esta universidad se dedica a la formación de profesionales altamente capacitados en diversas áreas del conocimiento, enfocándose en contribuir al desarrollo nacional y fortalecer los sectores estratégicos del país. Ofrece las siguientes opciones:
 
 
-## Área de Conocimiento: Ciencias Sociales
+## Área de estudio: Ciencias Sociales
 
-| Carrera | Sede | Descripción | Título del Egresado | Perfil del Egresado |
-|---|---|---|---|---|
-| Administración y Gestión Municipal | Barquisimeto | Formación en gestión y administración de entidades municipales, con enfoque en desarrollo local sostenible. | Licenciado en Administración y Gestión Municipal | Profesionales capacitados para liderar y gestionar eficazmente los recursos y proyectos municipales. |
-| Economía Social | Barquisimeto | Capacitación en modelos económicos centrados en el bienestar colectivo y la gestión comunitaria. | Licenciado en Economía Social | Profesionales con habilidades para desarrollar y aplicar estrategias económicas que fomenten la equidad y la inclusión social. |
+### Administración y Gestión Municipal
+* **Sede:** 
+  * Localidad Núcleo Lara. Sede Barquisimeto (Estado: Lara Municipio: Iribarren Parroquia: Concepción)
 
-## Ciencias de la Educación y del Deporte
+* **Descripción:** 
+  Programa orientado a formar profesionales en la administración y gestión de recursos municipales, con habilidades para planificar, ejecutar y evaluar políticas y proyectos en el ámbito local.
 
-| Carrera | Sede | Descripción | Título del Egresado | Perfil del Egresado |
-|---|---|---|---|---|
-| Educación Integral | Barquisimeto | Formación de educadores para la enseñanza básica, con habilidades en la creación y gestión de ambientes de aprendizaje inclusivos y efectivos. | Licenciado en Educación Integral | Educadores capacitados para promover el desarrollo integral de los estudiantes a través de métodos pedagógicos innovadores y efectivos. |
+* **Título del egresado:** 
+  Licenciado en Administración y Gestión Municipal
 
-## Ciencias de la Salud
-| Carrera | Sede | Descripción | Título del Egresado | Perfil del Egresado |
-|---|---|---|---|---|
-| Enfermería (Técnica) | Barquisimeto | Capacitación técnica en enfermería, preparando para ofrecer cuidados básicos de salud y asistencia en distintos entornos clínicos. | Técnico en Enfermería | Profesionales técnicos en enfermería preparados para asistir eficazmente en la promoción de la salud y el cuidado de pacientes. |
+* **Perfil del egresado:** 
+  El egresado será competente en la gestión eficiente de los recursos municipales, la implementación de políticas públicas, y la promoción del desarrollo local sostenible.
 
-## Ciencias del Agro y del Mar
-| Carrera | Sede | Descripción | Título del Egresado | Perfil del Egresado |
-|---|---|---|---|---|
-| Ingeniería Agronómica | Barquisimeto | Educación en el manejo y mejora de sistemas agrícolas, con énfasis en técnicas sostenibles y productivas. | Ingeniero Agrónomo | Ingenieros capacitados para mejorar la productividad agrícola mediante el uso de tecnologías y métodos de cultivo avanzados y sostenibles. |
-| Ingeniería del Azúcar | Barquisimeto | Formación específica en los procesos de producción y refinamiento de azúcar, con un enfoque en la eficiencia y la sostenibilidad. | Ingeniero en Procesos de Azúcar | Ingenieros especializados en la industria azucarera, con habilidades para optimizar los procesos de producción y asegurar la sostenibilidad del sector. |
+### Economía Social
+* **Sede:** 
+  * Localidad Núcleo Lara. Sede Barquisimeto (Estado: Lara Municipio: Iribarren Parroquia: Concepción)
 
-## Ingeniería, Arquitectura y Tecnología
-| Carrera | Sede | Descripción | Título del Egresado | Perfil del Egresado |
-|---|---|---|---|---|
-| Ingeniería de Sistemas | Barquisimeto | Formación en el diseño, desarrollo y mantenimiento de sistemas informáticos complejos, con aplicaciones en diversos sectores. | Ingeniero de Sistemas | Ingenieros con habilidades avanzadas en tecnologías de la información, capaces de desarrollar soluciones tecnológicas innovadoras y efectivas. |
-| Ingeniería Eléctrica | Barquisimeto | Capacitación en el diseño, construcción y mantenimiento de sistemas eléctricos y electrónicos. | Ingeniero Eléctrico | Ingenieros con competencias en la gestión y desarrollo de infraestructuras eléctricas, contribuyendo a la eficiencia energética y la innovación tecnológica. |
+* **Descripción:** 
+  Formación de profesionales en economía con un enfoque en el desarrollo social, capacitados para analizar, diseñar y gestionar proyectos y políticas que promuevan el bienestar social y económico.
+
+* **Título del egresado:** 
+  Licenciado en Economía Social
+
+* **Perfil del egresado:** 
+  El egresado será capaz de elaborar y gestionar proyectos económicos con impacto social, analizar políticas públicas, y contribuir al desarrollo económico inclusivo y sostenible.
+
+## Área de estudio: Ciencias de la Educación y Ciencias del Deporte
+
+### Educación Integral
+* **Sede:** 
+  * Localidad Núcleo Lara. Sede Barquisimeto (Estado: Lara Municipio: Iribarren Parroquia: Concepción)
+
+* **Descripción:** 
+  Programa que prepara profesionales para la docencia en educación integral, capacitados para enseñar en diversos niveles educativos y promover el desarrollo integral de los estudiantes.
+
+* **Título del egresado:** 
+  Licenciado en Educación Integral
+
+* **Perfil del egresado:** 
+  El egresado será competente en la planificación y ejecución de procesos educativos, la gestión de aulas y la promoción de ambientes de aprendizaje inclusivos y efectivos.
+
+## Área de estudio: Ciencias de la Salud
+
+### Enfermería (Técnica)
+* **Sede:** 
+  * Localidad Núcleo Lara. Sede Barquisimeto (Estado: Lara Municipio: Iribarren Parroquia: Concepción)
+
+* **Descripción:** 
+  Programa técnico que forma enfermeros capacitados para brindar atención de salud integral en diversos contextos, enfocándose en la promoción, prevención y atención de la salud.
+
+* **Título del egresado:** 
+  Técnico en Enfermería
+
+* **Perfil del egresado:** 
+  El egresado será competente en la realización de cuidados de enfermería, la administración de tratamientos y la educación para la salud de pacientes y comunidades.
+
+## Área de estudio: Ciencias del Agro y del Mar
+
+### Ingeniería Agronómica
+* **Sede:** 
+  * Localidad Núcleo Lara. Sede Barquisimeto (Estado: Lara Municipio: Iribarren Parroquia: Concepción)
+
+* **Descripción:** 
+  Formación de ingenieros agrónomos capacitados para mejorar la producción agrícola, gestionar recursos naturales y desarrollar tecnologías sostenibles en el ámbito agropecuario.
+
+* **Título del egresado:** 
+  Ingeniero Agrónomo
+
+* **Perfil del egresado:** 
+  El egresado será competente en el diseño y manejo de sistemas de producción agrícola, la gestión sostenible de recursos naturales y la implementación de innovaciones tecnológicas en el sector agropecuario.
+
+### Ingeniería del Azúcar
+* **Sede:** 
+  * Localidad Núcleo Lara. Sede Barquisimeto (Estado: Lara Municipio: Iribarren Parroquia: Concepción)
+
+* **Descripción:** 
+  Programa orientado a la formación de ingenieros especializados en la producción y procesamiento de azúcar, con conocimientos en tecnología y gestión de la industria azucarera.
+
+* **Título del egresado:** 
+  Ingeniero del Azúcar
+
+* **Perfil del egresado:** 
+  El egresado será competente en la gestión de procesos industriales de producción de azúcar, la optimización de la cadena de valor y la implementación de prácticas sostenibles en la industria azucarera.
+
+## Área de estudio: Ingeniería, Arquitectura y Tecnología
+
+### Ingeniería de Sistemas
+* **Sede:** 
+  * Localidad Núcleo Lara. Sede Barquisimeto (Estado: Lara Municipio: Iribarren Parroquia: Concepción)
+
+* **Descripción:** 
+  Formación de ingenieros de sistemas capacitados para diseñar, desarrollar y gestionar sistemas informáticos, aplicando tecnologías de la información para resolver problemas y optimizar procesos.
+
+* **Título del egresado:** 
+  Ingeniero de Sistemas
+
+* **Perfil del egresado:** 
+  El egresado será competente en el desarrollo de software, la gestión de redes y sistemas informáticos, y la aplicación de tecnologías innovadoras para mejorar la eficiencia y competitividad de las organizaciones.
+
+### Ingeniería Eléctrica
+* **Sede:** 
+  * Localidad Núcleo Lara. Sede Barquisimeto (Estado: Lara Municipio: Iribarren Parroquia: Concepción)
+
+* **Descripción:** 
+  Programa que forma ingenieros eléctricos con habilidades para diseñar, implementar y gestionar sistemas eléctricos, garantizando el suministro eficiente y seguro de energía.
+
+* **Título del egresado:** 
+  Ingeniero Eléctrico
+
+* **Perfil del egresado:** 
+  El egresado será competente en el diseño y operación de sistemas eléctricos, la gestión de proyectos de energía y la implementación de tecnologías de energía renovable.
+
+
+
+
+
