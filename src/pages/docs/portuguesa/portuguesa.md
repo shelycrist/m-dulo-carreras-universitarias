@@ -1,4 +1,4 @@
-# Estado Lara
+# Estado Portuguesa
 
 [![Gestión pública](/images/gestion/publica.png)](/docs/portuguesa/gestion-publica-portuguesa)
 

@@ -1,4 +1,4 @@
-# Gestiión privada - Estado Portuguesa
+# Gestión privada - Estado Portuguesa
 
 | | | |
 |---|---|---|
