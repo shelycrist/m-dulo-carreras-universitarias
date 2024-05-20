@@ -233,10 +233,5 @@
 	"unauthorized": {
 			"title": "Não autorizado",
 			"description": "Você não tem permissão para acessar esta página."
-	},
-	"languages": {
-			"en": "Inglês",
-			"es": "Espanhol",
-			"pt": "Português"
-      }
+	}
 }

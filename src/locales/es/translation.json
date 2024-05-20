@@ -6,8 +6,8 @@
     "get-them-here": "Consíguelos aquí"
   },
   "hero": {
-    "title": "Pagos seguros con {{clientName}}",
-    "subtitle": "Integra {{clientName}} en tu tienda para aceptar pagos de tus usuarios"
+    "title": "Módulo de Orientación vocacional",
+    "subtitle": "Para orientar a los estudiantes de la institución en su futuro académico"
   },
   "general": {
     "title": "General",
@@ -233,10 +233,5 @@
   "unauthorized": {
     "title": "No autorizado",
     "description": "No tienes permisos para acceder a esta sección."
-  },
-  "languages": {
-    "en": "Inglés",
-    "es": "Español",
-    "pt": "Portugués"
   }
 }
