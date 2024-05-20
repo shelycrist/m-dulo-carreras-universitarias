@@ -1,8 +1,6 @@
-import { ecommerces } from "@/constants"
 
-export const clientName = 'payway'
-export const ecommerce = ecommerces.tiendanube
-export const languages = ['es', 'en', 'pt']
+export const clientName = 'Orientación vocacional'
+export const ecommerce = 'U.E Francisco Javier'
 
 // Left navigation
 export const leftNavigation = [
@@ -24,7 +22,7 @@ export const leftNavigation = [
   {
     title: 'OTROS',
     links: [
-      { title: 'Destacados del país', href: '/docs/yaracuy' },
+      { title: 'Destacados del país', href: '/docs/destacados/destacados' },
     ],
   },
 
