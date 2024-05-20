@@ -1,4 +1,4 @@
-# Orientación Vocacional: Explorando Carreras Universitarias en la Región Centroccidental
+# Explorando Carreras Universitarias en la Región Centroccidental
 
 Bienvenidos al módulo de Orientación Vocacional, diseñado exclusivamente para los estudiantes de la Unidad Educativa San Francisco Javier. Este recurso está creado con el objetivo de ayudar a los estudiantes de educación media a descubrir y explorar las diversas opciones académicas disponibles en las universidades de la región Centroccidental de Venezuela.
 
