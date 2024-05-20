@@ -1,6 +1,8 @@
+import { ecommerces } from "@/constants"
 
 export const clientName = 'Orientación vocacional'
-export const ecommerce = 'U.E Francisco Javier'
+export const ecommerce = ecommerces.tiendanube
+export const languages = ['es', 'en', 'pt']
 
 // Left navigation
 export const leftNavigation = [
