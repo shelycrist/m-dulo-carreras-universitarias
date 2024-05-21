@@ -1,9 +1,9 @@
 export const ecommerces = {
   "tiendanube": {
-    "name": "Tiendanube",
+    "name": "Orientación vocacional",
     "id": "tiendanube",
     "installUrl": "https://www.tiendanube.com/apps/ecommerce/ecommerce-boilerplate",
-    "logoUrl": "/images/logos/tiendanube.svg"
+    "logoUrl": "/images/logos/client.png"
   },
   "shopify": {
     "name": "Shopify",
