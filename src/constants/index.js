@@ -3,7 +3,7 @@ export const ecommerces = {
     "name": "Orientación vocacional",
     "id": "tiendanube",
     "installUrl": "https://www.tiendanube.com/apps/ecommerce/ecommerce-boilerplate",
-    "logoUrl": "/images/logos/client.png"
+    "logoUrl": "/images/logos/colegio.png"
   },
   "shopify": {
     "name": "Shopify",
